@@ -1,0 +1,9 @@
+I"<h3 id="why-semi-automated">Why Semi-Automated?</h3>
+
+<ol>
+  <li>Image matching and sparse cloud</li>
+  <li><strong><em>Setting ground controll points</em></strong></li>
+  <li>Filter sparse cloud and export</li>
+  <li>Create Orthomosaic and export</li>
+</ol>
+:ET
