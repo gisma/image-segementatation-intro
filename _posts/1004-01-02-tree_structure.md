@@ -2,4 +2,4 @@
 layout: page
 ---
 
-![](../images/tree_3D_cluster.png)
+![]({{site.baseurl}}/images/tree_3D_cluster.png)

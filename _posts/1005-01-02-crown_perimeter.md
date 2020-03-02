@@ -2,4 +2,4 @@
 layout: page
 ---
 
-![](../images/lidar_uav_crowns.png)
+![]({{site.baseurl}}/images/lidar_uav_crowns.png)
