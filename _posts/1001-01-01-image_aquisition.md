@@ -3,7 +3,7 @@ layout: page
 --- 
 
 
-## Image acquisition
+![]({{rep}}/images/web_banner.png)
 
 
 
