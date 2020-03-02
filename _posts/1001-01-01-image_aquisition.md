@@ -2,8 +2,7 @@
 layout: page
 --- 
 
-
-![]({{rep}}/images/web_banner.png)
+![]({{site.baseurl}}/images/web_banner.png)
 
 
 

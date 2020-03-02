@@ -1,4 +1,5 @@
 # Site settings
 title: UAV Kickoff Meeting 2020
 
-rep: https://github.com/Ludwigm6/UAVkickoff_2020
+baseurl: "/UAVkickoff_2020/"
+url: "https://Ludwigm6.github.io"
