@@ -1,5 +1,5 @@
 # Site settings
 title: Introduction to image segemenation techniques
 
-baseurl: "/image-segmentation-intro/"
+baseurl: "/image-segmentation-intro"
 url: "https://gisma.github.io"
